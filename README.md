@@ -57,27 +57,27 @@ Instead of only focusing on theory, I follow a **project-first approach**:
 
 ## 📁 Projects
 
-### 🛒 Amazon Sales Analysis
+### 🦠 COVID-19 Data Analysis
 
 **Objective:**
-Analyze sales data to uncover key business insights.
+Analyze COVID-19 data to understand infection rates, death percentages, and vaccination trends across countries.
 
 **Key Questions Explored:**
 
-* Which product categories generate the most revenue?
-* What are the top-performing products?
-* How do sales vary over time?
-* Which payment methods are most commonly used?
+* What percentage of the population was infected in different countries?
+* How does the death rate vary across regions?
+* Which countries had the highest infection rates relative to population?
+* How did vaccination progress over time?
 
 **Tools Used:**
-SQL, Excel
+SQL
 
 **Key Insights:**
 
-* Identified top revenue-driving categories
-* Found highest-performing products
-* Observed trends in monthly sales
-* Analyzed customer payment preferences
+* Identified countries with high infection rates relative to population
+* Observed variation in death percentages across regions
+* Found that relative metrics (percentages) give better insights than absolute numbers
+* Tracked vaccination growth using cumulative (rolling) calculations
 
 ---
 
@@ -110,7 +110,6 @@ SQL, Excel
 ## 📫 Let's Connect
 
 * LinkedIn: https://www.linkedin.com/in/krishno-gopal-das-125133154/
-
 
 ---
 
